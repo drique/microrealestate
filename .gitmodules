@@ -1,6 +1,6 @@
 [submodule "loca"]
 	path = loca
-	url = https://github.com/camelaissani/loca.git
+	url = https://github.com/drique/loca.git
 [submodule "emailer"]
 	path = emailer
 	url = https://github.com/microrealestate/emailer.git
